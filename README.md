@@ -25,8 +25,10 @@ vCard是创意简历、个人主页、电子名片网站HTML5模板，基于Boot
 -portfolio.html  <br>
 -resume.html  <br>
 -single-post.html
-[演示](https://v.bootstrapmb.com/2019/7/mg0w5510/)
-[下载](https://raw.githubusercontent.com/GettionHub/homepage/main/vCard.zip)
+
+* [演示](https://v.bootstrapmb.com/2019/7/mg0w5510/)
+* [下载](https://raw.githubusercontent.com/GettionHub/homepage/main/vCard.zip)
+
 --------------------------------------------------------------
 
 # 很有个性的个人主页简历web模板 - vCard3
@@ -54,15 +56,16 @@ vCard3是很有个性的简历网页模板，可以创建个人主页、个人�
 -works.html  <br>
 -works_v2.html
 
-[演示](https://v.bootstrapmb.com/2020/7/wc4878423)
-[下载](https://raw.githubusercontent.com/GettionHub/homepage/main/vCard3.zip)
+* [演示](https://v.bootstrapmb.com/2020/7/wc4878423)
+* [下载](https://raw.githubusercontent.com/GettionHub/homepage/main/vCard3.zip)
+
 --------------------------------------------------------------
 
 ## vCard主题个人简历主题 - vCard（typecho）
 
 一款个人简历主题，可以简单搭建一下，具体也比较简单，响应式布局，具体可以看看演示
 
-*2020.5.6 修复里面js错误，简化了页面代码，重制主题封面（会员）
+* 2020.5.6 修复里面js错误，简化了页面代码，重制主题封面（会员）
 
 ## 文件列表（共70个文件）
 * assets
@@ -79,5 +82,5 @@ vCard3是很有个性的简历网页模板，可以创建个人主页、个人�
 -aside.php  <br>
 -page.php
 
-[演示](https://v.bootstrapmb.com/2019/7/mg0w5510/)
-[下载](https://raw.githubusercontent.com/GettionHub/homepage/main/vCard（typecho）.zip)
+* [演示](https://v.bootstrapmb.com/2019/7/mg0w5510/)
+* [下载](https://raw.githubusercontent.com/GettionHub/homepage/main/vCard（typecho）.zip)
