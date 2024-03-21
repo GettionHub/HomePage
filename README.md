@@ -18,12 +18,12 @@ vCard是创意简历、个人主页、电子名片网站HTML5模板，基于Boot
 * images
 * img
 * js
-* styles
--blog.html
--contact.html
--index.html
--portfolio.html
--resume.html
+* styles  <br>
+-blog.html  <br>
+-contact.html  <br>
+-index.html  <br>
+-portfolio.html  <br>
+-resume.html  <br>
 -single-post.html
 
 --------------------------------------------------------------
@@ -42,15 +42,15 @@ vCard3是很有个性的简历网页模板，可以创建个人主页、个人�
 * W3C HTML有效代码
 
 ## 文件列表（共85个文件）
-* assets
--about.html
--background-2.html
--blog.html
--contact.html
--one-page.html
--resume.html
--single-post.html
--works.html
+* assets  <br>
+-about.html  <br>
+-background-2.html  <br>
+-blog.html  <br>
+-contact.html  <br>
+-one-page.html  <br>
+-resume.html  <br>
+-single-post.html  <br>
+-works.html  <br>
 -works_v2.html
 
 --------------------------------------------------------------
