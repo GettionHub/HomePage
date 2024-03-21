@@ -60,4 +60,20 @@ vCard3是很有个性的简历网页模板，可以创建个人主页、个人�
 一款个人简历主题，可以简单搭建一下，具体也比较简单，响应式布局，具体可以看看演示
 
 *2020.5.6 修复里面js错误，简化了页面代码，重制主题封面（会员）
-演示：http://v.bootstrapmb.com/2019/7/mg0w5510/
+
+## 文件列表（共70个文件）
+* assets
+* images  <br>
+-functions.php  <br>
+-index.php  <br>
+-archive.php  <br>
+-post.php  <br>
+-comments.php  <br>
+-menu.php  <br>
+-header.php  <br>
+-portfolio.php  <br>
+-footer.php  <br>
+-aside.php  <br>
+-page.php
+
+## 演示：http://v.bootstrapmb.com/2019/7/mg0w5510/
