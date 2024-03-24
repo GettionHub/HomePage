@@ -4,7 +4,6 @@
 * [演示](https://codewithsadee.github.io/vcard-personal-portfolio/)
 * [下载](https://raw.githubusercontent.com/GettionHub/homepage/main/vcard-personal-portfolio.zip)
 
-
 # 创意html5个人主页电子名片网页模板 - vCard
 ![](https://imgs.bootstrapmb.com/2019/7/261037130.png) 
 > vCard是创意简历、个人主页、电子名片网站HTML5模板，基于Bootstrap4框架创建的个人网页模板。用来提升你自己的网站，这个理想的bootstrap个人网页模板使用和任何类型的职业,如创意工作室和公司,非常适合放置信息关于你的经验,技能,教育,工作和专业知识。
@@ -65,6 +64,40 @@
 
 * [演示](https://v.bootstrapmb.com/2020/7/wc4878423)
 * [下载](https://raw.githubusercontent.com/GettionHub/homepage/main/vCard3.zip)
+
+--------------------------------------------------------------
+## Jakson - Personal Portfolio/CV HTML Template.
+![](https://imgs.bootstrapmb.com/2024/1/100907305.jpg)
+> Jakson是富有创意且独特的简历HTML模板，适用于开发人员、设计师、程序员、自由职业者、作家、 音乐家、培训师、摄影师或任何其他职业，可用于个人页面。此模板包含一个 单页和多页，设计简洁流畅，每个元素都充满创意。
+
+## 主要特色:
+* 2种不同的首页。
+* Bootstrap5.x 框架。
+* 干净优雅的设计。
+* W3C标准代码。
+* 跨浏览器优化。
+* 像素完美设计。
+* 完全响应式布局。
+* 加载速度更快。
+
+## 文件列表（共115个文件）
+- [ ] assets
+- [ ] css
+- [ ] fonts
+- [ ] images
+- [ ] js
+-blog-single.html
+-blog.html
+-contact.html
+-index-2.html
+-index.html
+-portfolio-details.html
+-portfolio.html
+-service-details.html
+-service.html
+
+* [演示](https://innovativeartisan.com/demo/html/jakson/)
+* [下载](https://raw.githubusercontent.com/GettionHub/homepage/main/jakson.zip)
 
 --------------------------------------------------------------
 
