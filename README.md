@@ -80,20 +80,20 @@
 * 完全响应式布局。
 * 加载速度更快。
 
-## 文件列表（共144个文件）
+## 文件列表（共140个文件）
 - [ ] assets
 - [ ] css
 - [ ] fonts
 - [ ] images
-- [ ] js
--blog-single.html
--blog.html
--contact.html
--index-2.html
--index.html
--portfolio-details.html
--portfolio.html
--service-details.html
+- [ ] js  <br>
+-blog-single.html  <br>
+-blog.html  <br>
+-contact.html  <br>
+-index-2.html  <br>
+-index.html  <br>
+-portfolio-details.html  <br>
+-portfolio.html  <br>
+-service-details.html  <br>
 -service.html
 
 * [演示](https://innovativeartisan.com/demo/html/jakson/)
